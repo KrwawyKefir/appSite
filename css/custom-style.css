@@ -20,10 +20,14 @@
 	margin: 12px 0
 }
 
+#login-dp .social-buttons a {
+	width: 49%;
+}
+
 #login-dp .form-group {
 	margin-bottom: 10px;
 }
 
-.active {
+a.active {
 	color: #23527c;
 }
